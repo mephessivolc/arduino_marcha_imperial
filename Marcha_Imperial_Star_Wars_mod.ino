@@ -3,8 +3,14 @@
  Conecte uma saida de audio ao pino 11 ou selecione um novo pino.
 
 Criado por Robson Couto, 2019. Disponivel em: https://github.com/robsoncouto/arduino-songs/blob/master/imperialmarch/imperialmarch.ino
+Acessado em 16 de Julho de 2022.
 
 Modificado por Thiago Vasconcelos. Dispopnivel em: https://github.com/tvtfisica/Arduino/blob/main/Marcha_Imperial_Star_Wars_mod.ino
+Acessado em 16 de Julho de 2022.
+
+Copiado (fork) por Clovis Caface. Disponivel em: https://github.com/mephessivolc/arduino_marcha_imperial
+Acessado em 16 de Julho de 2022.
+
 
 */
 
